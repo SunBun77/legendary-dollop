@@ -1,1 +1,1 @@
-# legendary-dollop
+# tv_channels_manuel.m3u
