@@ -1,1 +1,1 @@
-# tv_channels_manuel.m3u
+# tvchannelsmanuel.m3u
